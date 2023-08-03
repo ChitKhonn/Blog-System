@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "title": "test",
+      "body": "test",
+      "tags": [
+        "web dev",
+        "vuejs"
+      ],
+      "id": 4
+    },
+    {
+      "title": "vuejs",
+      "body": "vuejs",
+      "tags": [
+        "vuejs"
+      ],
+      "id": 5
+    },
+    {
+      "title": "laravel",
+      "body": "laravel",
+      "tags": [
+        "laravel"
+      ],
+      "id": 6
+    },
+    {
+      "title": "world news",
+      "body": "world news",
+      "tags": [
+        "news"
+      ],
+      "id": 7
+    },
+    {
+      "title": "ANGULAR",
+      "body": "angular",
+      "tags": [
+        "angular"
+      ],
+      "id": 8
+    }
+  ]
+}
